@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
+      "name": "Vili-KernelSU",
       "repo": "https://github.com/misakazip/android_kernel_xiaomi_sm8350",
       "branch": "test",
       "device": "vili"
